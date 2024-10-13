@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Navbar from './Navbar';
-import photos from '../assets/images/photo-grid.png'
+import photos from '../../assets/images/photo-grid.png'
 
 export default function Hero () {
     return (
